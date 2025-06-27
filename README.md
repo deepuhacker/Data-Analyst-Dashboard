@@ -5,7 +5,7 @@ I developed a comprehensive project in tableau, creating multiple dashboards and
 ## Project Objective
 The SuperStore wants to create an annual sales report for 2014. So that, the owner of the Super store can understand their customers and grow more sales in 2014 & 2017.
 ## Dataset used
-- <a herf="https://github.com/deepuhacker/Data-Analyst-Dashboard/blob/main/sample_-_superstore.xls" Superstore Data</a>
+- <a herf="https://github.com/deepuhacker/Data-Analyst-Dashboard/blob/main/sample_-_superstore.xls"</a>Superstore Data
 ## Questions (KPIS)
 Develop a Tableau dashboard utilizing the Sample Superstore dataset, as shown in below figures. The formatting / labelling / spacing / alignment should be the same as used in the charts. The Dashboard should have the following features:
 a)	Divide the dashboard into two planes. The left plane will feature the company logo, interaction controls, and filters for year and region. The right plane will contain 6 dynamic visualizations and 3 Key Performance Indicator (KPI) cards based on selected metrics.
